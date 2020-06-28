@@ -77,16 +77,6 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'dracula/vim', { 'name': 'dracula' }
-"let g:dracula_colorterm = 0
-"let g:dracula_italic = 0
-
-" YouCompleteMe
-" Plugin 'Valloric/YouCompleteMe'
-" let g:ycm_server_python_interpreter='/usr/local/bin/python3'
-" let g:ycm_global_ycm_extra_conf='~/.vim/.ycm_extra_conf.py'
-" let g:ycm_autoclose_preview_window_after_completion=1 "补全后自动关闭预览窗口"
-
-
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
