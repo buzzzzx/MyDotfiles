@@ -101,6 +101,7 @@ alias Xcode="open -a Xcode"
 alias typora="open -a typora"
 alias cls="clear"
 
+alias vim="/usr/local/Cellar/vim/8.1.1200/bin/vim"
 alias gs="git status"
 alias gc="git commit"
 alias mv="mv -i"           # -i prompts before overwrite

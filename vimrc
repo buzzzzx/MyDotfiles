@@ -12,6 +12,9 @@ set showcmd
 " 设置匹配模式，如输入左括号时会匹配右括号
 set showmatch 
 
+" use the os clipboard by default
+set clipboard=unnamed
+
 " 开启语法高亮
 " syntax enable
 syntax on
