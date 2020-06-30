@@ -64,6 +64,8 @@ source $ZSH/oh-my-zsh.sh
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+# make highlight style work in tmux
+export TERM=xterm-256color
 # ------------------ User configuration ---------------------------#
 
 # 添加开机启动:
