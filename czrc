@@ -1,4 +1,1 @@
-{ 
-    "path": "cz-conventional-changelog",
-    "disableScopeLowerCase": "true", 
- }
+{ "path": "cz-conventional-changelog", "disableScopeLowerCase": 1 }
